@@ -7,4 +7,4 @@ Guardar 100 numeros aleatorios del 1 al 200 en un array y colocar los pares al p
 
 
 # Contenidos
-http://github.com - ¡link automático!
+[Aleatorios](https://github.com/erabasco/javascript/tree/master/aleatorios)
