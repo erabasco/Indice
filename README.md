@@ -2,14 +2,14 @@
 Ejercicios del módulo de JavaScript Técnico Superior DAW.
 
 ### JAVASCRIPT
-1. [Aleatorios](https://github.com/erabasco/javascript/tree/master/aleatorios): Guardar 100 numeros aleatorios del 1 al 200 en un array y colocar los pares al principio y los impares al final del array.
+1. [Aleatorios](https://github.com/erabasco/javascript/tree/master/aleatorios)
 2. [Butacas](https://github.com/erabasco/javascript/tree/master/butacas)
 3. [Dividir Cadena](https://github.com/erabasco/javascript/tree/master/cadena_mitad)
 4. [Cajero automático](https://github.com/erabasco/javascript/tree/master/cajero)
-5. [Objeto Coches]
-6. [Mostrar días que faltan para navidad]
-7. [Estudiantes - herencia]
-8. [Equipos de Futbol]
-9. [Palindroma]
-10. [Partidos Políticos]
-11. [Manejo ventana con fechas]
+5. [Objeto Coches](https://github.com/erabasco/javascript/tree/master/coches)
+6. [Mostrar días que faltan para navidad](https://github.com/erabasco/javascript/tree/master/dias_navidad)
+7. [Estudiantes - herencia](https://github.com/erabasco/javascript/tree/master/estudiantes_herencia_classes)
+8. [Equipos de Futbol](https://github.com/erabasco/javascript/tree/master/examen_equipos_futbol)
+9. [Palindroma](https://github.com/erabasco/javascript/tree/master/palindroma)
+10. [Partidos Políticos](https://github.com/erabasco/javascript/tree/master/partidos_politicos)
+11. [Manejo ventana con fechas](https://github.com/erabasco/javascript/tree/master/ventana_fechas)
