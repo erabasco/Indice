@@ -16,11 +16,9 @@ Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 
 
 ### PHP
-1. [Opcional 1 - Arrays asociativos multidimensionales](https://github.com/erabasco/php/tree/master/Opcional%201%20-%20Arrays%20asociativos%20multidimensionales)
-2. [Opcional 2 - Formulario de Alumnos](https://github.com/erabasco/php/tree/maste/Opcional%202%20-%20Formulario%20de%20Alumnos)
-3. [Opcional 3 - Formulario anterior mejorado con validacion html5 y pattern, ficheros multiples](https://github.com/erabasco/php/tree/master/Opcional%203%20-%20Formulario%20anterior%20mejorado%20con%20validacion%20html5%20y%20pattern%2C%20ficheros%20multiples)
-
-4. [Opcional 4 - Formulario anterior con objetos (POO)](https://github.com/erabasco/php/tree/master/Opcional%204%20-%20Formulario%20anterior%20con%20objetos%20(POO))
-
+- [Opcional 1 - Arrays asociativos multidimensionales](https://github.com/erabasco/php/tree/master/Opcional%201%20-%20Arrays%20asociativos%20multidimensionales)
+- [Opcional 2 - Formulario de Alumnos](https://github.com/erabasco/php/tree/maste/Opcional%202%20-%20Formulario%20de%20Alumnos)
+- [Opcional 3 - Formulario anterior mejorado con validacion html5 y pattern, ficheros multiples](https://github.com/erabasco/php/tree/master/Opcional%203%20-%20Formulario%20anterior%20mejorado%20con%20validacion%20html5%20y%20pattern%2C%20ficheros%20multiples)
+- [Opcional 4 - Formulario anterior con objetos (POO)](https://github.com/erabasco/php/tree/master/Opcional%204%20-%20Formulario%20anterior%20con%20objetos%20(POO))
 - [Tarea 1.1 Agenda](https://github.com/erabasco/php/tree/master/Tarea_1_2)
 - [Tarea 1.2 Direcciones Mac](https://github.com/erabasco/php/tree/master/Tareas_1_3)
