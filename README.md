@@ -16,5 +16,5 @@ Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 
 
 ### PHP
-[Opcional 1 - Arrays asociativos multidimensionales](https://github.com/erabasco/php/tree/master/Opcional%201%20-%20Arrays%20asociativos%20multidimensionales)
-<img src="formulario1.png" width='200px'/>
+1. [Opcional 1 - Arrays asociativos multidimensionales](https://github.com/erabasco/php/tree/master/Opcional%201%20-%20Arrays%20asociativos%20multidimensionales)
+
