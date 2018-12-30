@@ -1,5 +1,5 @@
 # Tabla de contenidos
-Ejercicios del módulo de JavaScript Técnico Superior DAW.
+Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 
 ### JAVASCRIPT
 1. [Aleatorios](https://github.com/erabasco/javascript/tree/master/aleatorios)
