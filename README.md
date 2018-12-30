@@ -3,7 +3,7 @@ Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 
 ### JAVASCRIPT
 1. [Aleatorios](https://github.com/erabasco/javascript/tree/master/aleatorios)
-2. [Butacas](https://github.com/erabasco/javascript/tree/master/butacas)
+2. [Butacas Cine](https://github.com/erabasco/javascript/tree/master/butacas)
 3. [Dividir Cadena](https://github.com/erabasco/javascript/tree/master/cadena_mitad)
 4. [Cajero automático](https://github.com/erabasco/javascript/tree/master/cajero)
 5. [Objeto Coches](https://github.com/erabasco/javascript/tree/master/coches)
