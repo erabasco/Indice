@@ -6,7 +6,7 @@ Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 2. [Butacas Cine](https://github.com/erabasco/javascript/tree/master/butacas)
 3. [Dividir Cadena](https://github.com/erabasco/javascript/tree/master/cadena_mitad)
 4. [Cajero automático](https://github.com/erabasco/javascript/tree/master/cajero)
-5. [Objeto Coches](https://github.com/erabasco/javascript/tree/master/coches)
+5. [Coche](https://github.com/erabasco/javascript/tree/master/coches)
 6. [Mostrar días que faltan para navidad](https://github.com/erabasco/javascript/tree/master/dias_navidad)
 7. [Estudiantes - herencia](https://github.com/erabasco/javascript/tree/master/estudiantes_herencia_classes)
 8. [Equipos de Futbol](https://github.com/erabasco/javascript/tree/master/examen_equipos_futbol)
