@@ -24,3 +24,5 @@ Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 * [Tarea 1.1 Agenda](https://github.com/erabasco/php/tree/master/Tarea_1_2)
 * [Tarea 1.2 Direcciones Mac](https://github.com/erabasco/php/tree/master/Tareas_1_3)
 * [Patrón CRUDPDO, con Paginador, actualización de imágenes: José Luis González Sánchez](https://github.com/erabasco/php/tree/master/Model%20crudpdo%20Jose%20Luis)
+* [Presencial 1 - Coches con arrays asociativos](https://github.com/erabasco/php/tree/master/Presencial%201%20-%20Coches%20con%20arrays%20asociativos)
+* [Presencial 2 - Coches con BBDD](https://github.com/erabasco/php/tree/master/Presencial%202%20-%20Coches%20con%20BBDD)
