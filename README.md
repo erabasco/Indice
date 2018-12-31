@@ -1,5 +1,11 @@
 # Tabla de contenidos
 Ejercicios de las distintas asignaturas de Técnico Superior DAW.
+1. [JavaScript](#JAVASCRIPT)
+2. [DWES](#dwes)
+3. [ED](#ed)
+4. [DIW](#diw)
+5. [DAW](#daw)
+6. [SEO](#seo)
 
 ### JAVASCRIPT
 1. [Aleatorios](https://github.com/erabasco/javascript/tree/master/aleatorios)
