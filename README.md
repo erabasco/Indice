@@ -32,3 +32,6 @@ Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 * [Examen 1erTrimestre - Patron CRUDPDO](https://github.com/erabasco/php/tree/master/Examen%201erTrimestre%20-%20Patron%20CRUDPDO)
 #
 * [Patrón CRUDPDO, con Paginador, actualización de imágenes: José Luis González Sánchez](https://github.com/erabasco/php/tree/master/Model%20crudpdo%20Jose%20Luis)
+
+### JAVA
+* [Examen 3er Trimestre](https://github.com/erabasco/java/tree/master/Examen)
