@@ -6,6 +6,7 @@ Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 #
 
 ### JAVASCRIPT
+* [Pasando objetos a las funciones usando this/](https://github.com/erabasco/javascript/blob/master/Pasando%20objetos%20a%20las%20funciones%20usando%20this/README.md)
 * [Aleatorios](https://github.com/erabasco/javascript/tree/master/aleatorios)
 * [Butacas Cine](https://github.com/erabasco/javascript/tree/master/butacas)
 * [Dividir Cadena](https://github.com/erabasco/javascript/tree/master/cadena_mitad)
