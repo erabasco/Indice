@@ -39,4 +39,4 @@ Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 
 #
 ### MANUALES
-* [Manual de GIMP] (http://www.ite.educacion.es/formacion/enred/materiales_en_pruebas_2011/gimp_noviembre_11/indice.htm)
+* [Manual de GIMP](http://www.ite.educacion.es/formacion/enred/materiales_en_pruebas_2011/gimp_noviembre_11/indice.htm)
