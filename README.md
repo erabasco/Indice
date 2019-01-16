@@ -39,5 +39,5 @@ Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 
 #
 ### MANUALES
-* [manual para el servidor ftp vsftpd](https://www.redeszone.net/gnu-linux/proftpd/)
+* [Manual servidor ftp vsftpd](https://www.redeszone.net/gnu-linux/proftpd/)
 * [Manual de GIMP](http://www.ite.educacion.es/formacion/enred/materiales_en_pruebas_2011/gimp_noviembre_11/indice.htm)
