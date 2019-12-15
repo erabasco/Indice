@@ -6,6 +6,7 @@ Ejercicios de las distintas asignaturas de Técnico Superior DAW.
 #
 
 ### JAVASCRIPT
+* [Juego 3 en Raya] - (https://github.com/erabasco/javascript/tree/master/EjercicioTresenRaya)
 * [Juego de colores - Eventos sobre celdas de una tabla](https://github.com/erabasco/javascript/tree/master/juego%20de%20colores%2C%20eventos%20sobre%20celdas)
 * [Pasando objetos a las funciones usando this/](https://github.com/erabasco/javascript/blob/master/Pasando%20objetos%20a%20las%20funciones%20usando%20this/README.md)
 * [Aleatorios](https://github.com/erabasco/javascript/tree/master/aleatorios)
